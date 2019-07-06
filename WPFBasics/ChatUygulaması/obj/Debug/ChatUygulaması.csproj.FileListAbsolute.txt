@@ -1,0 +1,15 @@
+C:\Users\GOD\Desktop\Chat Uygulaması\ChatUygulaması\ChatUygulaması\bin\Debug\ChatUygulaması.exe.config
+C:\Users\GOD\Desktop\Chat Uygulaması\ChatUygulaması\ChatUygulaması\bin\Debug\ChatUygulaması.exe
+C:\Users\GOD\Desktop\Chat Uygulaması\ChatUygulaması\ChatUygulaması\bin\Debug\ChatUygulaması.pdb
+C:\Users\GOD\Desktop\Chat Uygulaması\ChatUygulaması\ChatUygulaması\obj\Debug\ChatUygulaması.csprojAssemblyReference.cache
+C:\Users\GOD\Desktop\Chat Uygulaması\ChatUygulaması\ChatUygulaması\obj\Debug\MainWindow.g.cs
+C:\Users\GOD\Desktop\Chat Uygulaması\ChatUygulaması\ChatUygulaması\obj\Debug\App.g.cs
+C:\Users\GOD\Desktop\Chat Uygulaması\ChatUygulaması\ChatUygulaması\obj\Debug\ChatUygulaması_MarkupCompile.cache
+C:\Users\GOD\Desktop\Chat Uygulaması\ChatUygulaması\ChatUygulaması\obj\Debug\ChatUygulaması_MarkupCompile.lref
+C:\Users\GOD\Desktop\Chat Uygulaması\ChatUygulaması\ChatUygulaması\obj\Debug\MainWindow.baml
+C:\Users\GOD\Desktop\Chat Uygulaması\ChatUygulaması\ChatUygulaması\obj\Debug\ChatUygulaması.g.resources
+C:\Users\GOD\Desktop\Chat Uygulaması\ChatUygulaması\ChatUygulaması\obj\Debug\ChatUygulaması.Properties.Resources.resources
+C:\Users\GOD\Desktop\Chat Uygulaması\ChatUygulaması\ChatUygulaması\obj\Debug\ChatUygulaması.csproj.GenerateResource.cache
+C:\Users\GOD\Desktop\Chat Uygulaması\ChatUygulaması\ChatUygulaması\obj\Debug\ChatUygulaması.csproj.CoreCompileInputs.cache
+C:\Users\GOD\Desktop\Chat Uygulaması\ChatUygulaması\ChatUygulaması\obj\Debug\ChatUygulaması.exe
+C:\Users\GOD\Desktop\Chat Uygulaması\ChatUygulaması\ChatUygulaması\obj\Debug\ChatUygulaması.pdb

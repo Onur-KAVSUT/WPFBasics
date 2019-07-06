@@ -1,0 +1,5 @@
+C:\Users\GOD\Desktop\Chat Uygulaması\WPFBasics\ChatUygulaması\obj\Debug\WPFBasics.csprojAssemblyReference.cache
+C:\Users\GOD\Desktop\Chat Uygulaması\WPFBasics\ChatUygulaması\obj\Debug\MainWindow.g.cs
+C:\Users\GOD\Desktop\Chat Uygulaması\WPFBasics\ChatUygulaması\obj\Debug\App.g.cs
+C:\Users\GOD\Desktop\Chat Uygulaması\WPFBasics\ChatUygulaması\obj\Debug\WPFBasics_MarkupCompile.cache
+C:\Users\GOD\Desktop\Chat Uygulaması\WPFBasics\ChatUygulaması\obj\Debug\WPFBasics_MarkupCompile.lref
